@@ -1,0 +1,9 @@
+package instance_package;
+
+public class Hotel_1 {
+	
+	int foodprice=0;
+	int cofee=0;
+	int tea=0;
+
+}
