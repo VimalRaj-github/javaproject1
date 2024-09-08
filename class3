@@ -1,3 +1,5 @@
+package instance_package;
+
 public class Hotel_3 {
 	
 	int foodprice=0;
