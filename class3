@@ -1,0 +1,7 @@
+public class Hotel_3 {
+	
+	int foodprice=0;
+	int cofee=0;
+	int tea=0;
+
+}
