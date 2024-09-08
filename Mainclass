@@ -1,0 +1,44 @@
+package instance_package;
+
+
+		public class Mainclass {
+			public static void main(String args[]) {
+				Hotel_1 Swiggy=new Hotel_1();
+				Swiggy.foodprice=40;
+				Swiggy.cofee=20;
+				Swiggy.tea=15;
+				
+				System.out.println("food's price in Swiggy is "+Swiggy.foodprice);
+				System.out.println("Cofee's price in Swiggy is "+Swiggy.cofee);
+				System.out.println("Tea's price in Swiggy is "+Swiggy.tea);
+				
+				Hotel_2 Zomato=new Hotel_2();
+				Zomato.foodprice=45;
+				Zomato.cofee=18;
+				Zomato.tea=13;
+				
+				System.out.println("Food's price in Zomato is "+Zomato.foodprice);
+				System.out.println("Cofee's price in Zomato is "+Zomato.cofee);
+				System.out.println("Tea's price in Zomato is "+Zomato.tea);
+				
+				
+				Hotel_3 Uber=new Hotel_3();
+				Uber.foodprice=50;
+				Uber.cofee=20;
+				Uber.tea=15;
+				
+				System.out.println("Food's in Uber is "+Uber.foodprice);
+				System.out.println("Cofee's price in Uber is "+Uber.cofee);
+				System.out.println("Tea's in Uber is "+Uber.tea);
+							
+			}
+			
+		
+	}
+	
+
+
+
+
+
+
